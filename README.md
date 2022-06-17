@@ -1,4 +1,4 @@
-# -SpringBoot-Rezerwacja-bilet-w-lorniczych
+# [SpringBoot] Rezerwacja biletów lotniczych
 <p>Prosta aplikacja webowa do rezerwacji biletów lotniczych napisana w frameworku Spring Boot oraz w silniku szablonów Thymeleaf.</p>
 
 <hr />
